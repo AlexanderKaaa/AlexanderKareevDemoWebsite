@@ -1,0 +1,26 @@
+{
+  "name": "alexanderkareevdemowebsite",
+  "version": "1.0.0",
+  "description": "Demo Website",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderKaaa/AlexanderKareevDemoWebsite.git"
+  },
+  "keywords": [
+    "flash",
+    "cards"
+  ],
+  "author": "Alex Kareev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderKaaa/AlexanderKareevDemoWebsite/issues"
+  },
+  "homepage": "https://github.com/AlexanderKaaa/AlexanderKareevDemoWebsite#readme"
+}
